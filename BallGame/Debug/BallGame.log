@@ -1,0 +1,31 @@
+﻿  Ball.cpp
+D:\Fiverr\marlndelija\BallGame\BallGame\Draw.h(111,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\Ball.cpp(4,13): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\Ball.cpp(5,9): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\Ball.cpp(8,13): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\Fiverr\marlndelija\BallGame\BallGame\Ball.cpp(30,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\Ball.cpp(34,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\Ball.cpp(44,11): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\Ball.cpp(49,7): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\Ball.cpp(54,11): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\Ball.cpp(59,10): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\Ball.cpp(67,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Draw.cpp
+D:\Fiverr\marlndelija\BallGame\BallGame\Draw.h(111,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Keyboard.cpp
+D:\Fiverr\marlndelija\BallGame\BallGame\Draw.h(111,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Point.cpp
+D:\Fiverr\marlndelija\BallGame\BallGame\Draw.h(111,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Text.cpp
+D:\Fiverr\marlndelija\BallGame\BallGame\Draw.h(111,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  WordsManager.cpp
+D:\Fiverr\marlndelija\BallGame\BallGame\Draw.h(111,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\WordsManager.cpp(26,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\WordsManager.cpp(26,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  main.cpp
+D:\Fiverr\marlndelija\BallGame\BallGame\Draw.h(111,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\main.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\main.cpp(29,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Fiverr\marlndelija\BallGame\BallGame\main.cpp(41,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  BallGame.vcxproj -> D:\Fiverr\marlndelija\BallGame\Debug\BallGame.exe

@@ -1,0 +1,81 @@
+﻿Ball.obj : error LNK2001: unresolved external symbol __glewBindBuffer
+Draw.obj : error LNK2001: unresolved external symbol __glewBindBuffer
+Text.obj : error LNK2001: unresolved external symbol __glewBindBuffer
+WordsManager.obj : error LNK2001: unresolved external symbol __glewBindBuffer
+Ball.obj : error LNK2001: unresolved external symbol __glewBufferData
+Draw.obj : error LNK2001: unresolved external symbol __glewBufferData
+Text.obj : error LNK2001: unresolved external symbol __glewBufferData
+WordsManager.obj : error LNK2001: unresolved external symbol __glewBufferData
+Ball.obj : error LNK2001: unresolved external symbol __glewEnableVertexAttribArray
+Draw.obj : error LNK2001: unresolved external symbol __glewEnableVertexAttribArray
+Text.obj : error LNK2001: unresolved external symbol __glewEnableVertexAttribArray
+WordsManager.obj : error LNK2001: unresolved external symbol __glewEnableVertexAttribArray
+WordsManager.obj : error LNK2019: unresolved external symbol __glewGetUniformLocation referenced in function "bool __cdecl std::_Ungetc<char>(char const &,struct _iobuf *)" (??$_Ungetc@D@std@@YA_NAEBDPEAU_iobuf@@@Z)
+Ball.obj : error LNK2001: unresolved external symbol __glewGetUniformLocation
+Draw.obj : error LNK2001: unresolved external symbol __glewGetUniformLocation
+main.obj : error LNK2001: unresolved external symbol __glewGetUniformLocation
+Text.obj : error LNK2001: unresolved external symbol __glewGetUniformLocation
+Ball.obj : error LNK2001: unresolved external symbol __glewUniform4f
+Draw.obj : error LNK2001: unresolved external symbol __glewUniform4f
+Text.obj : error LNK2001: unresolved external symbol __glewUniform4f
+WordsManager.obj : error LNK2001: unresolved external symbol __glewUniform4f
+WordsManager.obj : error LNK2019: unresolved external symbol __glewUseProgram referenced in function "public: virtual void __cdecl std::basic_filebuf<char,struct std::char_traits<char> >::_Unlock(void)" (?_Unlock@?$basic_filebuf@DU?$char_traits@D@std@@@std@@UEAAXXZ)
+Ball.obj : error LNK2001: unresolved external symbol __glewUseProgram
+Draw.obj : error LNK2001: unresolved external symbol __glewUseProgram
+main.obj : error LNK2001: unresolved external symbol __glewUseProgram
+Text.obj : error LNK2001: unresolved external symbol __glewUseProgram
+Ball.obj : error LNK2001: unresolved external symbol __glewVertexAttribPointer
+Draw.obj : error LNK2001: unresolved external symbol __glewVertexAttribPointer
+Text.obj : error LNK2001: unresolved external symbol __glewVertexAttribPointer
+WordsManager.obj : error LNK2001: unresolved external symbol __glewVertexAttribPointer
+Ball.obj : error LNK2001: unresolved external symbol __glewBindVertexArray
+Draw.obj : error LNK2001: unresolved external symbol __glewBindVertexArray
+Text.obj : error LNK2001: unresolved external symbol __glewBindVertexArray
+WordsManager.obj : error LNK2001: unresolved external symbol __glewBindVertexArray
+main.obj : error LNK2019: unresolved external symbol glewInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwDestroyWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetKeyCallback referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+main.obj : error LNK2001: unresolved external symbol __glewDeleteBuffers
+main.obj : error LNK2001: unresolved external symbol __glewGenBuffers
+Text.obj : error LNK2001: unresolved external symbol __glewGenBuffers
+main.obj : error LNK2001: unresolved external symbol __glewAttachShader
+Text.obj : error LNK2001: unresolved external symbol __glewAttachShader
+main.obj : error LNK2001: unresolved external symbol __glewCompileShader
+Text.obj : error LNK2001: unresolved external symbol __glewCompileShader
+main.obj : error LNK2001: unresolved external symbol __glewCreateProgram
+Text.obj : error LNK2001: unresolved external symbol __glewCreateProgram
+main.obj : error LNK2001: unresolved external symbol __glewCreateShader
+Text.obj : error LNK2001: unresolved external symbol __glewCreateShader
+main.obj : error LNK2001: unresolved external symbol __glewDeleteProgram
+main.obj : error LNK2001: unresolved external symbol __glewDeleteShader
+Text.obj : error LNK2001: unresolved external symbol __glewDeleteShader
+main.obj : error LNK2001: unresolved external symbol __glewLinkProgram
+Text.obj : error LNK2001: unresolved external symbol __glewLinkProgram
+main.obj : error LNK2001: unresolved external symbol __glewShaderSource
+Text.obj : error LNK2001: unresolved external symbol __glewShaderSource
+main.obj : error LNK2001: unresolved external symbol __glewUniformMatrix4fv
+Text.obj : error LNK2001: unresolved external symbol __glewUniformMatrix4fv
+main.obj : error LNK2001: unresolved external symbol __glewDeleteVertexArrays
+main.obj : error LNK2001: unresolved external symbol __glewGenVertexArrays
+Text.obj : error LNK2001: unresolved external symbol __glewGenVertexArrays
+Text.obj : error LNK2019: unresolved external symbol FT_Init_FreeType referenced in function "public: static void __cdecl Text::init(void)" (?init@Text@@SAXXZ)
+Text.obj : error LNK2019: unresolved external symbol FT_Done_FreeType referenced in function "public: static void __cdecl Text::init(void)" (?init@Text@@SAXXZ)
+Text.obj : error LNK2019: unresolved external symbol FT_New_Face referenced in function "public: static void __cdecl Text::init(void)" (?init@Text@@SAXXZ)
+Text.obj : error LNK2019: unresolved external symbol FT_Done_Face referenced in function "public: static void __cdecl Text::init(void)" (?init@Text@@SAXXZ)
+Text.obj : error LNK2019: unresolved external symbol FT_Set_Pixel_Sizes referenced in function "public: static void __cdecl Text::init(void)" (?init@Text@@SAXXZ)
+Text.obj : error LNK2019: unresolved external symbol FT_Load_Char referenced in function "public: static void __cdecl Text::init(void)" (?init@Text@@SAXXZ)
+Text.obj : error LNK2001: unresolved external symbol __glewActiveTexture
+Text.obj : error LNK2001: unresolved external symbol __glewBufferSubData
+D:\Fiverr\marlndelija\BallGame\\OpenGL\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Fiverr\marlndelija\BallGame\\OpenGL\GLEW\lib\Release\Win32\glew32s.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Fiverr\marlndelija\BallGame\\OpenGL\Freetype\objs\win32\vc2010\freetype252_D.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Fiverr\marlndelija\BallGame\x64\Debug\BallGame.exe : fatal error LNK1120: 41 unresolved externals
